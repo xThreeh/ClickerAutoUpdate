@@ -26,7 +26,8 @@
 Con Clicker AutoUpdate, las posibilidades son infinitas. En futuras versiones, planeamos incluir características como la integración con más juegos, la capacidad de personalizar scripts de clics, y la implementación de inteligencia artificial para optimizar la experiencia del usuario. También se explorará la posibilidad de añadir un sistema de notificaciones para alertar a los usuarios sobre eventos importantes en los juegos. Con cada actualización, buscamos mejorar la funcionalidad y la experiencia general del usuario, asegurando que Clicker AutoUpdate se mantenga a la vanguardia de las herramientas de automatización.
 
 ### Agradecimientos
-- **Agradecimientos**: Reconocemos a todos los colaboradores y a la comunidad que ha ayudado en el desarrollo de Clicker AutoUpdate.
+- **Agradecimientos**:
+Reconocemos a todos los colaboradores y a la comunidad que ha ayudado en el desarrollo de Clicker AutoUpdate.
  
 ![image](https://github.com/user-attachments/assets/a0dce77b-a1a3-4cc8-9ec9-ed052dc9b174)
 ![image](https://github.com/user-attachments/assets/a560e095-2d6a-4a13-9026-bf1d457424c3)
