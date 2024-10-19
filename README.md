@@ -1,5 +1,4 @@
-### Descripción del Programa
-**Clicker AutoUpdate** es una herramienta diseñada para automatizar clics en diversas aplicaciones y juegos. Permite a los usuarios simular clics de manera eficiente, optimizando tareas repetitivas y mejorando la experiencia en juegos como Cookie Clicker, Adventure Capitalist, Clicker Heroes, Realm Grinder, Egg, Inc., y muchos más. Con una interfaz intuitiva y opciones de personalización, Clicker AutoUpdate se adapta a las necesidades de cada usuario. Además, se actualiza automáticamente para ofrecer nuevas funciones y mejoras de rendimiento, y es compatible con múltiples versiones de Windows.
+### Descripción: **Clicker AutoUpdate** es una herramienta diseñada para automatizar clics en diversas aplicaciones y juegos. Permite a los usuarios simular clics de manera eficiente, optimizando tareas repetitivas y mejorando la experiencia en juegos como Cookie Clicker, Adventure Capitalist, Clicker Heroes, Realm Grinder, Egg, Inc., y muchos más. Con una interfaz intuitiva y opciones de personalización, Clicker AutoUpdate se adapta a las necesidades de cada usuario. Además, se actualiza automáticamente para ofrecer nuevas funciones y mejoras de rendimiento, y es compatible con múltiples versiones de Windows.
 
 ### Características
 - Simulación de clics automáticos en la posición actual o seleccionada.
